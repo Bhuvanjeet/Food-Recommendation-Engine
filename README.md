@@ -2,7 +2,7 @@
 
 To recommend food items based on similarity in 'brand' and 'ingredients'.
 
-# Dataset
+# Source
 
 https://drive.google.com/open?id=1eEM2edL8PyQWuz_LPOKvveRP9nKzGG8M
 
