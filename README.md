@@ -2,13 +2,13 @@
 
 To recommend food items based on similarity in 'brand' and 'ingredients'.
 
-# Source
+## Source
 
 https://drive.google.com/open?id=1eEM2edL8PyQWuz_LPOKvveRP9nKzGG8M
 
 Download the dataset in .txt format and name it as 'food_items.txt' and save it where 'food_recommendation.ipynb' file is cloned.
 
-# Project Overview:
+## Project Overview:
 
  1-Exploratory Data Analysis - EDA
 
