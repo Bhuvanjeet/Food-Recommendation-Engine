@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """food_recommendation.ipynb
 
+@author: Bhuvanjeet
+
 **Food Recommendation Engine**
 
 To recommend food items based on similarity in 'brand' and 'ingredients'.
